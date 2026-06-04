@@ -17,3 +17,6 @@ Embedding Unity as a library within native iOS, Android & Flutter apps | Unity-a
 AR / VR:----
  
 ARKit (iOS) — surface detection, object placement, face tracking | ARCore (Android) — plane detection, anchors, light estimation | AR in Flutter via ARKit/ARCore plugins | Unity AR Foundation (cross-platform AR) | Image & marker-based AR | 3D model rendering & interaction | VR-ready scene structuring for mobile (Cardboard / standalone headsets)
+
+
+Project Detail - Mohawk Go (Unity) Nexus(swift) engage(flutter)
